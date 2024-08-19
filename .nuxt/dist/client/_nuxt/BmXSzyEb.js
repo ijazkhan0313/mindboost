@@ -1,0 +1,1 @@
+import{c6 as t,J as a,k as i,f as n,U as l}from"./ClYIXCJx.js";const c=t(()=>{const o=a(),s=i(o.$pinia),e=n();if(!s.is_login)return console.log("You tried to access "+window.location+"-- This is not possile without login"),l(e("/auth/login"))});export{c as default};
